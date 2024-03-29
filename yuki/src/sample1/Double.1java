@@ -1,0 +1,9 @@
+package sample1;
+
+public interface Double1{
+	String say();
+
+}
+Public static void main(String args[]) {
+	
+}
